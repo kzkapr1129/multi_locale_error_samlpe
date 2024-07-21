@@ -1,0 +1,15 @@
+dict:
+  word:
+    sbom-form-name:
+      jp: "名前"
+      en: "Name"
+  error:
+    E1234:
+      jp: テストエラー
+      en: the test error
+    E1235:
+      jp: "'%s'の型が不正です"
+      en: "'%s' is invalid type"
+    E1236:
+      jp: "'%s'の数値が不正です: %d"
+      en: "The number of '%s' is invalid: %d"
